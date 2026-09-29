@@ -69,7 +69,8 @@ The workflow covers data cleaning, exploratory data analysis (EDA), feature enco
 es/charges_distribution.png) | ![Smoker Boxplot](images<img width="1081" height="710" alt="image" src="https://github.com/user-attachments/assets/c1f54acc-d097-4ef9-be8c-1d53beb3d6bf" />
 /charges_by_smoker.png) |
 | ![Age vs Charges](images/age_vs_charges.png) | ![BMI Interaction](images/bmi_smoker_interaction.png) |
-| ![Correlation Heatmap](images/correlation_heatmap.png) | ![Pairplot](images/pairplot.png) |
+| ![Correlation Heatmap](imag<img width="948" height="779" alt="image" src="https://github.com/user-attachments/assets/b461a9d3-82b3-4678-b4d2-37ced6e26751" />
+es/correlation_heatmap.png) | ![Pairplot](images/pairplot.png) |
 
 *(Update these paths once your chart images are in the `images/` folder.)*
 
