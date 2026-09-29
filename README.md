@@ -65,7 +65,8 @@ The workflow covers data cleaning, exploratory data analysis (EDA), feature enco
 
 | | |
 |---|---|
-| ![Distribution](images/charges_distribution.png) | ![Smoker Boxplot](images/charges_by_smoker.png) |
+| ![Distribution](imag<img width="1065" height="722" alt="image" src="https://github.com/user-attachments/assets/a2858671-a310-4a2b-9cbe-6d63209dc5a7" />
+es/charges_distribution.png) | ![Smoker Boxplot](images/charges_by_smoker.png) |
 | ![Age vs Charges](images/age_vs_charges.png) | ![BMI Interaction](images/bmi_smoker_interaction.png) |
 | ![Correlation Heatmap](images/correlation_heatmap.png) | ![Pairplot](images/pairplot.png) |
 
